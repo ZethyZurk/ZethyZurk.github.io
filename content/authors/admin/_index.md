@@ -35,8 +35,8 @@ interests:
 
 # Education to show in About widget
 education:
-  courses: Funny Business
-    - course: PhD in Artificial Intelligence
+  courses:
+    - course: Funny Business
       institution: Frogging University
       year: 2012
     - course: Shenanigans
