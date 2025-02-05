@@ -10,8 +10,8 @@ first_name: Kermit
 last_name: Frog
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+# icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true

@@ -13,14 +13,14 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: FrogTalks
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Publifrogs
     url: '#featured'
     weight: 50
   - name: Contact
-    url: '#contact'
+    url: '#Frogtact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academi1c # Website name
-baseURL: 'https://Somejoetest00001.com/' # Website URL
+title: Frocademic # Website name
+#baseURL: 'https://Somejoetest00001.com/' # Website URL
 
 ############################
 ## LANGUAGE
