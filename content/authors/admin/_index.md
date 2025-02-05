@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: TestingJoe
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Some Joe
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Some
+last_name: Joe
 
 # Status emoji
 status:
