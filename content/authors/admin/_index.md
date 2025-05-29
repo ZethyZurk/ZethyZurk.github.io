@@ -37,6 +37,7 @@ interests:
 education:
   courses:
     - course: Funny Business
+      area: test
       institution: Frogging University
       year: 2012
     - course: Shenanigans
